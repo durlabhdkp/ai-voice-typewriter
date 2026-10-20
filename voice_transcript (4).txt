@@ -1,5 +1,5 @@
 ﻿Streamlit==1.41.1
-Google-genai==1.44.0
+google-genai==1.44.0
 SpeechRecognition==3.10.4
 PyAudio==0.2.14
 Pyperclip==1.9.0
