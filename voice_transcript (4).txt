@@ -1,0 +1,10 @@
+﻿Streamlit==1.41.1
+Google-genai==1.44.0
+SpeechRecognition==3.10.4
+PyAudio==0.2.14
+Pyperclip==1.9.0
+Faster-whisper 1.1.1
+Cachetools-5.5.2
+Packaging-24.2
+Rich-13.9.4
+Reportlab==4.2.5
